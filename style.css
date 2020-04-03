@@ -8,11 +8,21 @@
     font-family: serif;
 }
 .background{                 
+    /* background-image: url("Materials/img/bg_typeA.png"); */
+    background-color: aquamarine;
+}
+.menu{
     background-image: url("Materials/img/bg_typeA.png");
 }
 .headline{
     text-align: left;
     color: white;
     font-size: 36px;
+    font-family: serif;
+}
+.headerlinks{
+    text-decoration: none;
+    color: snow;
+    font-size: 24px;
     font-family: serif;
 }
