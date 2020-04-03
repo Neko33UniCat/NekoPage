@@ -1,0 +1,18 @@
+.main{
+    background-image: url("Materials/img/Title.png");
+    text-align: center;
+}
+.title{
+    font-size: 108px;
+    color: snow;
+    font-family: serif;
+}
+.profile{                 
+    background-image: url("Materials/img/bg_typeA.png");
+}
+.profile_text{
+    text-align: left;
+    color: white;
+    font-size: 36px;
+    font-family: serif;
+}
