@@ -26,3 +26,15 @@
     font-size: 24px;
     font-family: serif;
 }
+.gameroom{
+    text-align: center;
+}
+.background_A{
+    background-image: url("Materials/img/background_A.jpg");
+}
+.headline_B{
+    text-align: start;
+    color: gray;
+    font-size: 36px;
+    font-family: serif;
+}
