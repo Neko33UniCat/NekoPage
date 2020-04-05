@@ -8,8 +8,8 @@
     font-family: serif;
 }
 .background{                 
-    /* background-image: url("Materials/img/bg_typeA.png"); */
-    background-color: aquamarine;
+    background-image: url("Materials/img/bg_typeA.png");
+    /* background-color: aquamarine; */
 }
 .menu{
     background-image: url("Materials/img/bg_typeA.png");
