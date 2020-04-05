@@ -13,6 +13,7 @@
 }
 .menu{
     background-image: url("Materials/img/bg_typeA.png");
+    text-align: start;
 }
 .headline{
     text-align: left;
