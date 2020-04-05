@@ -16,10 +16,11 @@
     text-align: start;
 }
 .headline{
-    text-align: left;
     color: white;
     font-size: 36px;
     font-family: serif;
+    position: relative;
+    left: 16px;
 }
 .headerlinks{
     text-decoration: none;
@@ -38,4 +39,29 @@
     color: gray;
     font-size: 36px;
     font-family: serif;
+}
+.profile{
+    width: 80%;
+    padding: 0.5em 1em;
+    border: double 5px aquamarine;
+    background-color: snow;
+    position: relative;
+    left: 10%;
+}
+.profile p {
+    margin: 0; 
+    padding: 0;
+}
+.dialy {
+    width: 80%;
+    padding: 0.5em 1em;
+    border: double 5px #4ec4d3;
+    background-color: snow;
+    position: relative;
+    left: 10%;
+}
+.dialy p {
+    border-bottom:double;/*二重線を引く*/
+    margin: 0; 
+    padding: 0;
 }
