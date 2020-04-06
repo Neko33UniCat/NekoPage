@@ -1,43 +1,41 @@
-.picboxa{
-    width: 480px;
-    height: 360px;
-    padding: 5px;
-    border: double 5px #e491bf;
-    background-color: snow;
-    position: relative;
-    margin-left: 10%;
-    clear: both;
+.typeA{
+    text-align: left;
 }
-.picboxb{
-    width: 480px;
-    height: 360px;
-    padding: 5px;
-    border: double 5px #e491bf;
-    background-color: snow;
+.typeA img {
+    width: 25%;
+    margin-left: 15%;
+    margin-top: 5%;
     position: relative;
-    margin-left: auto;
-    margin-right: 10%;
-    clear: both;
+    border: double 10px #f7a1dd;
 }
-.picboxwideA{
-    width: 1050px;
-    height: 295px;
-    padding: 5px;
-    border: double 5px #e491bf;
-    background-color: snow;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
+.typeB{
+    text-align: left;
 }
-.picboxwideB{
-    width: 960px;
-    height: 180px;
-    padding: 5px;
-    border: double 5px #e491bf;
-    background-color: snow;
+.typeB img {
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 5%;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    clear: both;
+    border: double 10px #f7a1dd;
+}
+.typeC {
+    text-align: right;
+}
+.typeC img{
+    width: 70%;
+    margin-top: 5%;
+    margin-right: 5%;
+    position: relative;
+    border: double 10px #f7a1dd;
+}
+.typeD {
+    text-align: center;
+}
+.typeD img {
+    width: 25%;
+    margin-top: 5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    position: relative;
+    border: double 10px #f7a1dd;
 }
