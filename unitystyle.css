@@ -1,0 +1,46 @@
+.unitypage {
+    background-image: url("Materials/img/bg_typeA.png");
+}
+.unitypage titlename {
+    color: white;
+    font-size: 36px;
+    font-family: serif;
+    position: relative;
+    left: 16px;
+}
+.unitypage titlename p{
+    border-bottom:double;/*二重線を引く*/
+    margin: 0; 
+    padding: 0;
+}
+.unitypage cap {
+    color: white;
+    font-size: 24px;
+    font-family: serif;
+    position: relative;
+    left: 32px;
+}
+.sec {
+    width: 80%;
+    padding: 5px;
+    border: double 5px #4ec4d3;
+    background-color: snow;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+.sec p{
+    font-size: 16px;
+    margin: 0; 
+    padding: 0px;
+    text-align: start;
+    left: 80%;
+}
+.sec img {
+    position: relative;
+    width: 50%;
+    left: 0%;
+    margin-right: 10px;
+    float: left;
+}
