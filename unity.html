@@ -23,8 +23,13 @@
             <cap>
                 <p>1.  プロジェクト作成</p>
             </cap>
-            <div class="sec">
-                <img src="./Materials/img/HelloWorld/new.png">
+            <div class="sec" id="sec01">
+                <img src="./Materials/img/HelloWorld/new.png" id="img01">
+                <script>
+                    var secObj = document.getElementById("sec01");
+                    var imgObj = document.getElementById("img01");
+                    secObj.style.height = imgObj.style.height;
+                </script>
                 <p>とりあえず<b>"HelloWorld"</b>と言う名前のプロジェクトを作ります。保存場所は好きなところで</p>
                 <p>今回はわかりやすいので3Dで作ります。</p>
                 <br><br><br><br><br><br><br><br><br><br>
